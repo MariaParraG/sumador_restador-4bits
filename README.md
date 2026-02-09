@@ -229,7 +229,7 @@ Cout=0 → resultado negativo
 
 ### Ejecución
 ```bash
-python sumador_restador_4bits.py
+python sumador_restador-4bits.py
 ```
 
 ### Menú Interactivo
