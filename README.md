@@ -358,18 +358,6 @@ Ocurre cuando el resultado de una operación no puede representarse con el núme
 
 ---
 
-##  Aplicaciones Educativas
-
-Este programa es útil para:
-
-1. **Entender circuitos digitales:** Cómo se construyen sumadores en hardware
-2. **Lógica digital:** Construcción de funciones complejas con compuertas simples
-3. **Aritmética binaria:** Suma, resta y complemento a 2
-4. **Arquitectura de computadores:** Base de la ALU (Unidad Aritmético-Lógica)
-5. **Propagación de acarreo:** Concepto de ripple carry adder
-
----
-
 ##  Estructura del Código
 
 ```
@@ -400,26 +388,6 @@ sumador_restador_4bits.py
 └── main()
     └── Interfaz interactiva
 ```
-
----
-
-##  Mejoras Futuras
-
-- Implementar sumador de 8, 16 o 32 bits
-- Agregar multiplicación y división binaria
-- Implementar carry lookahead adder (más rápido)
-- Visualización gráfica de compuertas
-- Animación del flujo de datos
-- Exportar circuito a formato HDL (Verilog/VHDL)
-
----
-
-##  Referencias
-
-- **Lógica Digital:** Fundamentos de diseño de circuitos digitales
-- **Complemento a 2:** Representación de números negativos en binario
-- **Full Adder:** Componente básico de la ALU
-- **Ripple Carry Adder:** Sumador con propagación de acarreo
 
 ---
 
