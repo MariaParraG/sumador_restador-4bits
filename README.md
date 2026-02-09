@@ -265,7 +265,7 @@ A + B = 12 + 5
 Resultado: 0001 (decimal: 1)
 Acarreo de salida (overflow): 1
 
-⚠️  OVERFLOW: El resultado real es 17
+  OVERFLOW: El resultado real es 17
    (excede el rango de 4 bits: 0-15)
 ```
 
@@ -425,10 +425,4 @@ sumador_restador_4bits.py
 
 ##  Autor
 
-Programa educativo diseñado para demostrar los principios fundamentales de la aritmética binaria en sistemas digitales.
-
----
-
-##  Licencia
-
-Este código es de uso libre para fines educativos.
+María Parra
