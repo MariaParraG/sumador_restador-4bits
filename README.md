@@ -342,7 +342,7 @@ Ocurre cuando el resultado de una operación no puede representarse con el núme
 
 ---
 
-## 🧪 Pruebas Recomendadas
+##  Pruebas Recomendadas
 
 ### Sumas
 1. `5 + 3 = 8` (sin overflow)
